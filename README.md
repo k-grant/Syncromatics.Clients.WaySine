@@ -60,7 +60,7 @@ We welcome contributions and collaboration on this project. Please read our [con
 
 [![GMV Syncromatics Engineering logo](https://secure.gravatar.com/avatar/645145afc5c0bc24ba24c3d86228ad39?size=16) GMV Syncromatics Engineering](https://github.com/syncromatics)
 
-[![license](https://img.shields.io/github/license/syncromatics/syncromatics/Syncromatics.Clients.WaySine.svg)](https://github.com/syncromatics/syncromatics/Syncromatics.Clients.WaySine/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/syncromatics/syncromatics/Syncromatics.Clients.WaySine.svg)](https://github.com/syncromatics/syncromatics/Syncromatics.Clients.WaySine/graphs/contributors)
+![license](https://img.shields.io/github/license/Syncromatics/Syncromatics.Clients.WaySine.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/Syncromatics/Syncromatics.Clients.WaySine.svg)
 
 This software is made available by GMV Syncromatics Engineering under the MIT license.
